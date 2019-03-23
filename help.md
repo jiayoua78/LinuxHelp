@@ -8,7 +8,7 @@
 yum install iptables-services
 ~~~
 
-2. **fine de iptables config file:** 
+2. **fined iptables config file:** 
 
 ~~~bash
 /etc/sysconfig/iptables
